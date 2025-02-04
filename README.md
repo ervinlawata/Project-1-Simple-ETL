@@ -4,6 +4,11 @@
 
 - Bisa membuat ETL sederhana
 - Mengasah skill seperti git, python, database dan BI
+- Output Dashboard:
+    - Data Order
+    - Data Shipper
+    - Data Payment
+    - Data Voucher
 
 ### Background Project
 
