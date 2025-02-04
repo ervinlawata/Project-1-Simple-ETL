@@ -13,3 +13,5 @@ Tim data analyst membutuhkan tabel untuk membuat dashboard terkait detail order 
 
 Membuat tabel di data warehouse dengan schema yang sudah ditentukan oleh user
 
+### Dashboard
+https://lookerstudio.google.com/s/qD7gvgD71dw
